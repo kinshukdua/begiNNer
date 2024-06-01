@@ -2,7 +2,7 @@
 
 ## Motivation
 
-As a somewhat experienced Machine Learning Engineer (MLE), I have always been fascinated by the inner workings of neural networks. Despite having worked and contributed to various high-level libraries like Pytroch, I believe there is immense value in understanding and building neural networks from the ground up. This project aims to create a minimal, self-contained, and beginner-friendly neural network implementation using only NumPy.
+As a somewhat experienced Machine Learning Engineer (MLE), I have always been fascinated by the inner workings of neural networks. Despite having worked and contributed to various high-level libraries like Pytorch, I believe there is immense value in understanding and building neural networks from the ground up. This project aims to create a minimal, self-contained, and beginner-friendly neural network implementation using only NumPy.
 
 ## Features
 
